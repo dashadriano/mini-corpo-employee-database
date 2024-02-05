@@ -290,7 +290,6 @@ public class BasicPayrollSystem{
                 System.out.println("Please input a valid option.");
                 space();
                 inputToContinue();
-                break;
         }
         return;
     }
